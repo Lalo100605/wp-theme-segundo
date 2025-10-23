@@ -1,0 +1,19 @@
+/*
+Theme Name: Segundo Tema WordPress
+Theme URI: http://example.com/my-custom-theme
+Author: Carlos Cahue
+Description: Programacion web Semestre 7.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: segundo-tema-wordpress
+Tags: custom, responsive, modern
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
